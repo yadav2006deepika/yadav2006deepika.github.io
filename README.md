@@ -28,4 +28,4 @@ This repository serves as an interactive portfolio showcasing my academic resear
 
 ---
 ## 📬 Professional Links
-* [LinkedIn](https://www.linkedin.com/deepika-yadav-5ba62528b)
+* [LinkedIn](https://www.linkedin.com/in/deepika-yadav-5ba62528b)
