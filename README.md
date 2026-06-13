@@ -25,7 +25,11 @@ This repository serves as an interactive portfolio showcasing my academic resear
 * **Training & Placement Office (Women's College, AMU)** | Core Member
 * **AMU Economics Students' Club** | Academic Researcher
 * **Quaid-e-Millath Study Circle, AMU** | Core Member
-* **NervNow** | B2B Report Writing 
+* **Miftah Educational Foundation** | Outreach Coordinator 
+* **Cultural Education Centre, AMU** | Event Management Intern
+* **T4 Theatre** | Core Member 
+* **McKinsey.org** | McKinsey Forward Learner
+* **DAV Fertilizer Public School, Sambhal** | Senior Prefect
 
 ---
 ## 📬 Professional Links
