@@ -25,6 +25,7 @@ This repository serves as an interactive portfolio showcasing my academic resear
 * **Training & Placement Office (Women's College, AMU)** | Core Member
 * **AMU Economics Students' Club** | Academic Researcher
 * **Quaid-e-Millath Study Circle, AMU** | Core Member
+* **NervNow** | B2B Report Writing 
 
 ---
 ## 📬 Professional Links
