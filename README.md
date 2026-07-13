@@ -14,6 +14,8 @@ Welcome to my active workspace. This repository acts as my "External Brain" and 
 | :--- | :--- | :--- | :--- |
 | **[Hindustan Unilever Ltd. (HUL)](HUL_Analysis.md)** | FMCG | Demergers & Structural Breaks | Isolated demerger impact; analyzed "inelastic demand" resilience. |
 | **[Tata Consultancy Services (TCS)](TCS_Analysis.md)** | IT Services | Contract Accounting & KAMs | Evaluated percentage-completion risks; assessed long-term contract vulnerabilities. |
+| **[Reliance India Ltd. (RIL)](RIL_Analysis.md)** | Oil & Petrochemical | 
+Financial Performance Analysis|  Verified and Evaluated Financial Performance Matrix. |
 
 ---
 
